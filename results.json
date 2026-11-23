@@ -1,0 +1,33 @@
+{
+  "folds": [
+    {
+      "last_value_mae": 7.03003805336477,
+      "ridge_mae": 1.8775868866323826,
+      "test_end_exclusive": 280,
+      "test_rows": 70,
+      "train_end_exclusive": 210,
+      "weekly_mae": 2.773765335018117
+    },
+    {
+      "last_value_mae": 7.152014858648337,
+      "ridge_mae": 2.114209439431907,
+      "test_end_exclusive": 350,
+      "test_rows": 70,
+      "train_end_exclusive": 280,
+      "weekly_mae": 3.330159026061126
+    },
+    {
+      "last_value_mae": 7.046806577392096,
+      "ridge_mae": 1.8182262202970363,
+      "test_end_exclusive": 420,
+      "test_rows": 70,
+      "train_end_exclusive": 350,
+      "weekly_mae": 3.2661550307245113
+    }
+  ],
+  "mean_ridge_mae": 1.936674182120442,
+  "mean_weekly_mae": 3.1233597972679177,
+  "protocol": "expanding training windows; frozen model per fold; one-step-ahead observed lags",
+  "rows": 420,
+  "seed": 42
+}
