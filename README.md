@@ -26,10 +26,11 @@ These values are generated from `results.json`, not estimated or copied. Rerun t
 
 | Measure | Local result |
 | --- | ---: |
-|  / mean ridge mae | 1.936674 |
-|  / mean weekly mae | 3.123360 |
-|  / rows | 420 |
-|  / seed | 42 |
+| Last-value baseline: mean MAE | 7.076286 |
+| Mean ridge MAE | 1.936674 |
+| Mean weekly MAE | 3.123360 |
+| Rows | 420 |
+| Seed | 42 |
 
 `verification.txt` records the local test run. The included GitHub Actions workflow is a reproducible check, not a claim that remote CI has already passed.
 
