@@ -1,5 +1,9 @@
 # Rolling Forecast Lab
 
+[![CI](https://github.com/MoustafaMZaalouk/rolling-forecast-lab/workflows/Reproducible%20project%20checks/badge.svg)](https://github.com/MoustafaMZaalouk/rolling-forecast-lab/blob/main/.github/workflows/test.yml)
+
+*Live workflow status, not a production-readiness or model-quality rating.*
+
 Compare last-value and weekly seasonal baselines with a lag-based ridge model using chronological backtests.
 
 A small educational project prepared with AI assistance for Moustafa Zaalouk's portfolio. This is new demonstration code, not a claim about past employment, research, clients or production deployment. It does not reuse another person's project under a different name.
